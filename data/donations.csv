@@ -1,0 +1,10 @@
+resource,quantity_received,donor_type,date
+Food,2200,Individual,2026-05-01
+Medicine,850,Corporate,2026-05-01
+Clothing,1200,Individual,2026-05-01
+Food,2300,Corporate,2026-06-01
+Medicine,750,Individual,2026-06-01
+Clothing,1250,Corporate,2026-06-01
+Food,2450,Individual,2026-07-01
+Medicine,900,Corporate,2026-07-01
+Clothing,1300,Individual,2026-07-01

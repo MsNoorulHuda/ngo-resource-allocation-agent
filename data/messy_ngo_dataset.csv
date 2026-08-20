@@ -1,0 +1,18 @@
+Beneficiary_Region,Commodity_Type,Reporting_Period,HH_in_Need,Qty_Given,Gap_Balance,Programme_Category
+Lahore,Food Assistance,2026-05-01,500,430,70,Emergency
+Multan,Medical Supplies,2026-05-01,320,280,40,Routine
+Faisalabad,Clothes,2026-05-01,250,260,-10,Routine
+Sialkot,Food Assistance,2026-05-01,410,390,20,Emergency
+Lahore,Medical Supplies,2026-06-01,600,510,90,Emergency
+Multan,Medical Supplies,2026-06-01,380,220,160,Emergency
+Faisalabad,Clothes,2026-06-01,260,260,0,Routine
+Sialkot,Food Assistance,2026-06-01,450,360,90,Emergency
+Lahore,Medical Supplies,2026-07-01,700,540,160,Emergency
+Multan,Medical Supplies,2026-07-01,430,220,210,Emergency
+Faisalabad,Clothes,2026-07-01,300,280,20,Routine
+Sialkot,Food Assistance,2026-07-01,500,470,30,Emergency
+Lahore,Food Assistance,2026-07-01,550,420,130,Emergency
+Multan,Food Assistance,2026-07-01,480,500,-20,Routine
+Sialkot,Medical Supplies,2026-07-01,300,310,-10,Routine
+Faisalabad,Clothes,2026-05-01,250,260,-10,Routine
+Rawalpindi,Hygiene Kits,2026-07-01,,120,,Routine
